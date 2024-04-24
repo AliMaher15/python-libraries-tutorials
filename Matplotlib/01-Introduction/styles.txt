@@ -1,0 +1,8 @@
+['Solarize_Light2', '_classic_test_patch', '_mpl-gallery', '_mpl-galler
+y-nogrid', 'bmh', 'classic', 'dark_background', 'fast', 'fivethirtyeigh
+t', 'ggplot', 'grayscale', 'seaborn-v0_8', 'seaborn-v0_8-bright', 'seab
+orn-v0_8-colorblind', 'seaborn-v0_8-dark', 'seaborn-v0_8-dark-palette',
+ 'seaborn-v0_8-darkgrid', 'seaborn-v0_8-deep', 'seaborn-v0_8-muted', 's
+eaborn-v0_8-notebook', 'seaborn-v0_8-paper', 'seaborn-v0_8-pastel', 'se
+aborn-v0_8-poster', 'seaborn-v0_8-talk', 'seaborn-v0_8-ticks', 'seaborn
+-v0_8-white', 'seaborn-v0_8-whitegrid', 'tableau-colorblind10']
